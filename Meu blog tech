@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu blog tech</title>
+    <style>
+        header{
+            background-color: darkgreen;
+            color: ghostwhite;
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 16px;
+        }
+        main{
+            background-color: ghostwhite;
+            color: darkgreen;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 16px;
+        }
+        img {
+            width: 280px;
+            height: 220px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+<h1>Meu blog tech</h1>
+<p>Vou compartilhar conhecimentos sobre tecnologia e programação.</p>
+</header>
+<main>
+    <img src="Gemini_Generated_Image_78hael78hael78ha.jpg"Uma imagem panorâmica de um moderno ambiente de escritório doméstico tecnológico, com vista para o horizonte da cidade ao fundo. A área de trabalho central está organizada em uma mesa de madeira escura e inclui uma estação de trabalho para computador de mesa (um iMac cinza espacial com um teclado e mouse sem fio correspondentes). Duas grandes telas de monitor estão montadas em braços articulados sobre a mesa, exibindo gráficos de dados e código em modo escuro. À direita, um fone de ouvido de realidade virtual (VR) preto com controladores está posicionado em um suporte. Uma caneca de café com a marca 'TECHNOVA INSIGHTS' está sobre a mesa ao lado de um mousepad. À esquerda, uma prateleira de livros embutida exibe uma variedade de livros de tecnologia e negócios, além de uma planta Monstera em um vaso de cerâmica preta. Um letreiro neon brilhante com a inscrição 'TECHNOVA' está montado na parede de tijolos atrás da mesa."" alt="">
+<h2>Meu primeiro post</h2>
+<p>Por: Matheus Rocha</p>
+<p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dias de programação e curiosidades da área de tecnologia.</p>
+</main>
+</body>
+</html>
